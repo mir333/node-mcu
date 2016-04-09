@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Remote For Node</string>
+    <string name="arrow_left">⇦</string>
+    <string name="arrow_right">⇨</string>
+    <string name="arrow_up">⇧</string>
+    <string name="arrow_down">⇩</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <integer name="size">100</integer>
+</resources>
+
